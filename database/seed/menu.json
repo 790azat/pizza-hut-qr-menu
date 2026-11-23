@@ -1,0 +1,1402 @@
+[
+ {
+  "ru": "Акции",
+  "hy": "Ակցիաներ",
+  "en": "Deals",
+  "items": [
+   {
+    "ru": "Футбольная вечеринка",
+    "hy": "Ֆուտբոլային փարթի",
+    "en": "Football party",
+    "dru": "Большой дабл пепперони, большая итальянская пицца, Большой Нью-Йорк",
+    "dhy": "Մեծ դաբլ պեպպերոնի, մեծ իտալական պիցցա, մեծ Նյու Յորքեր",
+    "den": "Large Double Pepperoni, large Italian, large New Yorker",
+    "img": "a57a17a27992.webp",
+    "hit": false,
+    "price": 10750,
+    "weight": "2,4 кг",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Комбо",
+  "hy": "Կոմբո",
+  "en": "Combos",
+  "items": [
+   {
+    "ru": "Пицца и наггетс бокс комбо",
+    "hy": "Պիցցա և նագեթս բոքս կոմբո",
+    "en": "Pizza & nugget box combo",
+    "dru": "Наггетс бокс (4 шт.), картофель по‑деревенски, сырный соус, Пепперони (средний)",
+    "dhy": "Նագեթս բոքս (4 հատ), գյուղական կարտոֆիլ, պանրային սոուս, Պեպերոնի (միջին)",
+    "den": "Nugget box (4 pcs), country-style potatoes, cheese sauce, medium Pepperoni",
+    "img": "b69612b36086.webp",
+    "hit": false,
+    "price": 3200,
+    "weight": "700 г",
+    "sizes": []
+   },
+   {
+    "ru": "Комбо для любителей мяса",
+    "hy": "Կոմբո մսի սիրահարների համար",
+    "en": "Meat lovers combo",
+    "dru": "Любители мяса (большой), Острый мясной (большой), Барбекю с курицей (большой)",
+    "dhy": "Մսի սիրահարներ (մեծ), Կծու մսային (մեծ), Հավով բարբեքյու (մեծ)",
+    "den": "Meat Lovers (large), Spicy Meat (large), BBQ Chicken (large)",
+    "img": "c2d9a4ab9381.webp",
+    "hit": false,
+    "price": 8900,
+    "weight": "2,2 кг",
+    "sizes": []
+   },
+   {
+    "ru": "Комбо с 3 средними пиццами",
+    "hy": "Կոմբո 3 միջին պիցցաներով",
+    "en": "3 medium pizzas combo",
+    "dru": "Джульетта (средняя), Кватро Формаджи (средняя), Итальянская (средняя)",
+    "dhy": "Ջուլիետտա (միջին), Կվատրո Ֆորմաջի (միջին), Իտալական (միջին)",
+    "den": "Julietta (medium), Quattro Formaggi (medium), Italian (medium)",
+    "img": "3527b6c85174.webp",
+    "hit": false,
+    "price": 6100,
+    "weight": "1,4 кг",
+    "sizes": []
+   },
+   {
+    "ru": "Чизи байтс комбо",
+    "hy": "Չիզի բայթս կոմբո",
+    "en": "Cheesy Bites combo",
+    "dru": "Маргарита чизи байтс (27 см), Итальянский чизи байтс (27 см), Любители пепперони чизи байтс (27 см)",
+    "dhy": "Մարգարիտա չիզի բայթս (27 սմ), Իտալական չիզի բայթս (27 սմ), Պեպերոնիի սիրահարներ չիզի բայթս (27 սմ)",
+    "den": "Margherita, Italian and Pepperoni Lovers Cheesy Bites (27 cm each)",
+    "img": "d6ad7a71f322.webp",
+    "hit": false,
+    "price": 8500,
+    "weight": "1,5 кг",
+    "sizes": []
+   },
+   {
+    "ru": "Пепперони комбо",
+    "hy": "Պեպերոնի կոմբո",
+    "en": "Pepperoni combo",
+    "dru": "Пепперони среднего размера (27 см), Кока-Кола (2 шт., 250 мл), крисперс большой (1 шт.), кетчуп (1 шт.)",
+    "dhy": "Միջին Պեպերոնի (27 սմ), Կոկա-Կոլա (2 հատ, 250 մլ), Քրիսփերս մեծ (1 հատ), կետչուպ (1 հատ)",
+    "den": "Medium Pepperoni (27 cm), Coca-Cola (2 × 250 ml), large Crispers, ketchup",
+    "img": "b1e2d7eea679.webp",
+    "hit": false,
+    "price": 3200,
+    "weight": "1,8 кг",
+    "sizes": []
+   },
+   {
+    "ru": "Комбо M",
+    "hy": "Կոմբո M",
+    "en": "Combo M",
+    "dru": "Любители пепперони (27 см, 6 кусочков), Нью-Йоркер (27 см, 6 кусочков), Маргарита (27 см, 6 кусочков)",
+    "dhy": "Պեպպերոնիի սիրահարներ (27 սմ, 6 կտոր), Նյու Յորքեր (27 սմ, 6 կտոր), Մարգարիտա (27 սմ, 6 կտոր)",
+    "den": "Pepperoni Lovers, New Yorker and Margherita (27 cm, 6 slices each)",
+    "img": "f78e7203e2f2.webp",
+    "hit": false,
+    "price": 7000,
+    "weight": "1,5 кг",
+    "sizes": []
+   },
+   {
+    "ru": "Комбо L",
+    "hy": "Կոմբո L",
+    "en": "Combo L",
+    "dru": "Цезарь (33 см, 8 кусочков), Итальянская (33 см, 8 кусочков), Пряный мясной (33 см, 8 кусочков)",
+    "dhy": "Կեսար (33 սմ, 8 կտոր), Իտալական (33 սմ, 8 կտոր), Կծու մսային (33 սմ, 8 կտոր)",
+    "den": "Caesar, Italian and Spicy Meat (33 cm, 8 slices each)",
+    "img": "bde8e3a36472.webp",
+    "hit": false,
+    "price": 11100,
+    "weight": "2,4 кг",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Ланч",
+  "hy": "Լանչ",
+  "en": "Lunch",
+  "items": [
+   {
+    "ru": "Чикенбургер ланч",
+    "hy": "Չիքենբուրգեր լանչ",
+    "en": "Chicken burger lunch",
+    "dru": "Чикенбургер, бокс с наггетсами, сырный соус, Кока-Кола (250 мл)",
+    "dhy": "Չիքենբուրգեր, բոքս նագեթսով, պանրային սոուս, Կոկա-Կոլա (250 մլ)",
+    "den": "Chicken burger, nugget box, cheese sauce, Coca-Cola (250 ml)",
+    "img": "43021bb17fc5.webp",
+    "hit": false,
+    "price": 2600,
+    "weight": "385 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Салаты",
+  "hy": "Աղցաններ",
+  "en": "Salads",
+  "items": [
+   {
+    "ru": "Цезарь",
+    "hy": "Կեսար",
+    "en": "Caesar",
+    "dru": "Хрустящие листья свежего салата, сочная куриная грудка, ломтики помидоров и гренки с соусом Цезарь",
+    "dhy": "Թարմ հազարի խրթխրթան թերթիկներ, հյութալի հավի կրծքամիս, լոլիկի կտորներ և բովահաց՝ համակված կեսար սոուսով",
+    "den": "Crisp fresh lettuce, juicy chicken breast, tomato slices and croutons with Caesar dressing",
+    "img": "39d0462de1ed.webp",
+    "hit": false,
+    "price": 1100,
+    "weight": "220 г",
+    "sizes": []
+   },
+   {
+    "ru": "Овощной фреш",
+    "hy": "Բանջարեղենային ֆրեշ",
+    "en": "Fresh vegetable salad",
+    "dru": "Заправлен оливковым маслом",
+    "dhy": "Համեմված է ձիթապտղի յուղով",
+    "den": "Dressed with olive oil",
+    "img": "044be464b1a0.webp",
+    "hit": false,
+    "price": 700,
+    "weight": "200 г",
+    "sizes": []
+   },
+   {
+    "ru": "Греческий",
+    "hy": "Հունական",
+    "en": "Greek",
+    "dru": "Заправлен оливковым маслом",
+    "dhy": "Համեմված է ձիթապտղի յուղով",
+    "den": "Dressed with olive oil",
+    "img": "49bf20d89436.webp",
+    "hit": false,
+    "price": 950,
+    "weight": "165 г",
+    "sizes": []
+   },
+   {
+    "ru": "Салат с креветками",
+    "hy": "Աղցան մանրածովախեցգետնով",
+    "en": "Shrimp salad",
+    "dru": "Свежее, яркое и вкусное блюдо",
+    "dhy": "Թարմ, բազմագույն ու բազմահամ ուտեստ",
+    "den": "Fresh, colourful and tasty",
+    "img": "333739a253a9.webp",
+    "hit": false,
+    "price": 1500,
+    "weight": "220 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Закуски",
+  "hy": "Խորտիկներ",
+  "en": "Starters",
+  "items": [
+   {
+    "ru": "Кесадилья Мексикано",
+    "hy": "Կեսադիլյա Մեքսիկանո",
+    "en": "Quesadilla Mexicano",
+    "dru": "Подаётся со сметаной и помидорами",
+    "dhy": "Մատուցվում է թթվասերով և լոլիկով",
+    "den": "Served with sour cream and tomatoes",
+    "img": "0901ca528c3b.webp",
+    "hit": false,
+    "price": 1400,
+    "weight": "250 г",
+    "sizes": []
+   },
+   {
+    "ru": "Роллы с курицей и соусом Цезарь",
+    "hy": "Ռոլլեր հավի մսով և Կեսար սոուսով",
+    "en": "Chicken Caesar rolls",
+    "dru": "Отличная закуска или дополнение к другим блюдам",
+    "dhy": "Հիանալի խորտիկ կամ հավելում տարբեր ճաշատեսակների համար",
+    "den": "A great snack or side for any dish",
+    "img": "396efe113103.webp",
+    "hit": false,
+    "price": 600,
+    "weight": "130 г",
+    "sizes": []
+   },
+   {
+    "ru": "Кесадилья Калифорния",
+    "hy": "Կեսադիլյա Կալիֆորնիա",
+    "en": "Quesadilla California",
+    "dru": "Подаётся со сметаной и помидорами",
+    "dhy": "Մատուցվում է թթվասերով և լոլիկով",
+    "den": "Served with sour cream and tomatoes",
+    "img": "a45ffb4494fb.webp",
+    "hit": false,
+    "price": 1400,
+    "weight": "230 г",
+    "sizes": []
+   },
+   {
+    "ru": "Куриные крылышки",
+    "hy": "Հավի թևիկներ",
+    "en": "Chicken wings",
+    "dru": "3 шт.",
+    "dhy": "3 հատ",
+    "den": "3 pcs",
+    "img": "fe764c5b5109.webp",
+    "hit": false,
+    "price": 900,
+    "weight": "80 г",
+    "sizes": []
+   },
+   {
+    "ru": "Куриные наггетсы",
+    "hy": "Հավի նագեթսներ",
+    "en": "Chicken nuggets",
+    "dru": "3 шт.",
+    "dhy": "3 հատ",
+    "den": "3 pcs",
+    "img": "1250db421011.webp",
+    "hit": false,
+    "price": 550,
+    "weight": "50 г",
+    "sizes": []
+   },
+   {
+    "ru": "Крисперс",
+    "hy": "Քրիսպերս",
+    "en": "Crispers",
+    "dru": "Отличная закуска или дополнение к другим блюдам",
+    "dhy": "Հիանալի խորտիկ կամ հավելում տարբեր ճաշատեսակների համար",
+    "den": "A great snack or side for any dish",
+    "img": "7fe0b9cc797d.webp",
+    "hit": false,
+    "price": 650,
+    "weight": "180 г",
+    "sizes": []
+   },
+   {
+    "ru": "Хат ролл с креветками",
+    "hy": "Հաթ ռոլլ մանրածովախեցգետնով",
+    "en": "Hut roll with shrimp",
+    "dru": "Отличная закуска или дополнение к другим блюдам",
+    "dhy": "Հիանալի խորտիկ կամ հավելում տարբեր ճաշատեսակների համար",
+    "den": "A great snack or side for any dish",
+    "img": "390e97a120ca.webp",
+    "hit": false,
+    "price": 1550,
+    "weight": "160 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Флетц пицца",
+  "hy": "Ֆլեթզ պիցցա",
+  "en": "Flatz pizza",
+  "items": [
+   {
+    "ru": "Флетц Де Люкс",
+    "hy": "Ֆլեթզ Դե Լյուքս",
+    "en": "Flatz Deluxe",
+    "dru": "Мягкая, насыщенная на вкус начинка (14×26 см)",
+    "dhy": "Փափուկ, հարուստ համերով փռվածք (14×26 սմ)",
+    "den": "Soft base with a rich topping (14×26 cm)",
+    "img": "716d19c3de88.webp",
+    "hit": false,
+    "price": 1900,
+    "weight": "250 г",
+    "sizes": []
+   },
+   {
+    "ru": "Флетц с сыром",
+    "hy": "Ֆլեթզ պանրով",
+    "en": "Flatz Cheese",
+    "dru": "Мягкая, насыщенная на вкус начинка (14×26 см)",
+    "dhy": "Փափուկ, հարուստ համերով փռվածք (14×26 սմ)",
+    "den": "Soft base with a rich topping (14×26 cm)",
+    "img": "af5c1921dcac.webp",
+    "hit": false,
+    "price": 1900,
+    "weight": "250 г",
+    "sizes": []
+   },
+   {
+    "ru": "Флетц Пепперони",
+    "hy": "Ֆլեթզ Պեպերոնի",
+    "en": "Flatz Pepperoni",
+    "dru": "Мягкая, насыщенная на вкус начинка (14×26 см)",
+    "dhy": "Փափուկ, հարուստ համերով փռվածք (14×26 սմ)",
+    "den": "Soft base with a rich topping (14×26 cm)",
+    "img": "29c58060f465.webp",
+    "hit": false,
+    "price": 1600,
+    "weight": "250 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Боксы",
+  "hy": "Բոքսեր",
+  "en": "Boxes",
+  "items": [
+   {
+    "ru": "Наггетс бокс",
+    "hy": "Բոքս նագեթսով",
+    "en": "Nugget box",
+    "dru": "Наггетсы (4 шт.)",
+    "dhy": "Նագեթսներ (4 հատ)",
+    "den": "Nuggets (4 pcs)",
+    "img": "f1b0583b147d.webp",
+    "hit": false,
+    "price": 1150,
+    "weight": "250 г",
+    "sizes": []
+   },
+   {
+    "ru": "Бокс с крылышками",
+    "hy": "Բոքս թևիկով",
+    "en": "Wings box",
+    "dru": "Крылышки (3 шт.)",
+    "dhy": "Թևիկ (3 հատ)",
+    "den": "Wings (3 pcs)",
+    "img": "b4f03d2f015a.webp",
+    "hit": false,
+    "price": 1300,
+    "weight": "260 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Паста",
+  "hy": "Պաստա",
+  "en": "Pasta",
+  "items": [
+   {
+    "ru": "Паста Чили",
+    "hy": "Պաստա Չիլի",
+    "en": "Chili pasta",
+    "dru": "С соусом чили",
+    "dhy": "Համեմված է չիլի սոուսով",
+    "den": "With chili sauce",
+    "img": "13e325147bbb.webp",
+    "hit": false,
+    "price": 1600,
+    "weight": "310 г",
+    "sizes": []
+   },
+   {
+    "ru": "Паста Мясной Суприм",
+    "hy": "Պաստա Մսային Սուպրիմ",
+    "en": "Meat Supreme pasta",
+    "dru": "Аппетитное горячее блюдо с насыщенным вкусом",
+    "dhy": "Ախորժելի տաք ուտեստ՝ հարուստ համով",
+    "den": "A hearty hot dish with a rich flavour",
+    "img": "b9525b0ce013.webp",
+    "hit": false,
+    "price": 1700,
+    "weight": "300 г",
+    "sizes": []
+   },
+   {
+    "ru": "Паста Песто",
+    "hy": "Պաստա Պեստո",
+    "en": "Pesto pasta",
+    "dru": "С соусом песто",
+    "dhy": "Համեմված է պեստո սոուսով",
+    "den": "With pesto sauce",
+    "img": "e1c07133d053.webp",
+    "hit": false,
+    "price": 1700,
+    "weight": "350 г",
+    "sizes": []
+   },
+   {
+    "ru": "Паста с острой пепперони",
+    "hy": "Պաստա Կծու Պեպերոնի",
+    "en": "Spicy pepperoni pasta",
+    "dru": "Аппетитное горячее блюдо с насыщенным вкусом",
+    "dhy": "Ախորժելի տաք ուտեստ՝ հարուստ համով",
+    "den": "A hearty hot dish with a rich flavour",
+    "img": "64ba9c6a6359.webp",
+    "hit": false,
+    "price": 1600,
+    "weight": "265 г",
+    "sizes": []
+   },
+   {
+    "ru": "Запечённая паста с креветками",
+    "hy": "Մանրածովախեցգետնով պաստա վառարանից",
+    "en": "Baked shrimp pasta",
+    "dru": "Аппетитное горячее блюдо с насыщенным вкусом",
+    "dhy": "Ախորժելի տաք ուտեստ՝ հարուստ համով",
+    "den": "A hearty hot dish with a rich flavour",
+    "img": "fb9d61cb8b91.webp",
+    "hit": false,
+    "price": 1900,
+    "weight": "325 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Пицца",
+  "hy": "Պիցցա",
+  "en": "Pizza",
+  "items": [
+   {
+    "ru": "Любители пепперони",
+    "hy": "Պեպերոնիի սիրահարներ",
+    "en": "Pepperoni Lovers",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "9165363f7919.webp",
+    "hit": true,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 950,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2750,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3700,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Любители курицы",
+    "hy": "Հավի մսի սիրահարներ",
+    "en": "Chicken Lovers",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "046415a4965e.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1150,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2850,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3700,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Цезарь",
+    "hy": "Կեսար",
+    "en": "Caesar",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "cb422db77927.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 950,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2750,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Пряный мясной",
+    "hy": "Կծու մսային",
+    "en": "Spicy Meat",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "98da64b82ae8.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1050,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2650,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3700,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Барбекю с курицей",
+    "hy": "Հավով բարբեքյու",
+    "en": "BBQ Chicken",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "4f4f13e7a9df.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1050,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2650,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3600,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Итальянская",
+    "hy": "Իտալական",
+    "en": "Italian",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "e065fbf2131c.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 850,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2550,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3500,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Нью-Йоркер",
+    "hy": "Նյու Յորքեր",
+    "en": "New Yorker",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "97aa0640f8e3.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 850,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2250,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3300,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Маргарита",
+    "hy": "Մարգարիտա",
+    "en": "Margherita",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "2835e1fd2f7a.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 800,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2000,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 2900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Любители мяса",
+    "hy": "Մսայինի սիրահարներ",
+    "en": "Meat Lovers",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "ff48a20bd939.webp",
+    "hit": true,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1250,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2950,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 4100,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Супер мясное барбекю",
+    "hy": "Սուպեր մսային բարբեքյու",
+    "en": "Super Meat BBQ",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "0d91631487ec.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1300,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 3100,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 4400,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "С курицей и грибами",
+    "hy": "Հավով և սնկով",
+    "en": "Chicken & Mushroom",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "4d961c7592ae.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1050,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2750,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Суприм",
+    "hy": "Սուպրիմ",
+    "en": "Supreme",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "0605d7f97ffa.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1150,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2850,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Кватро Формаджи",
+    "hy": "Կվատրո Ֆորմաջի",
+    "en": "Quattro Formaggi",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "008b5d9f984c.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1050,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2750,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Любители овощей",
+    "hy": "Բանջարեղենի սիրահարներ",
+    "en": "Veggie Lovers",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "ec4f2f9d4d4b.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1050,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2650,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Джульетта",
+    "hy": "Ջուլիետտա",
+    "en": "Julietta",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "e0e7093b1e4a.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 850,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2350,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3500,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Дабл пепперони",
+    "hy": "Դաբլ պեպերոնի",
+    "en": "Double Pepperoni",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "eb0b060c3aa3.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1050,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2900,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3950,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Пицца с креветками",
+    "hy": "Պիցցա մանրածովախեցգետնով",
+    "en": "Shrimp pizza",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "8277324a7dc0.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1500,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 3150,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 4400,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Мексиканская",
+    "hy": "Մեքսիկական",
+    "en": "Mexican",
+    "dru": "Тёплая, мягкая, с насыщенным вкусом начинки",
+    "dhy": "Տաք, փափուկ, հարուստ համերով փռվածք",
+    "den": "Warm and soft, with a rich topping",
+    "img": "74c677ba6092.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "17",
+      "price": 1200,
+      "weight": "250 г"
+     },
+     {
+      "label": "27",
+      "price": 2850,
+      "weight": "500 г"
+     },
+     {
+      "label": "33",
+      "price": 3900,
+      "weight": "800 г"
+     }
+    ]
+   },
+   {
+    "ru": "Четыре сезона",
+    "hy": "Չորս սեզոն",
+    "en": "Four Seasons",
+    "dru": "Нью-Йоркер (2 куска), Кватро Формаджи (2 куска), Любители пепперони (2 куска), С курицей и грибами (2 куска)",
+    "dhy": "Նյու Յորքեր (2 կտոր), Կվատրո Ֆորմաջի (2 կտոր), Պեպերոնիի սիրահարներ (2 կտոր), Հավով և սնկով (2 կտոր)",
+    "den": "New Yorker, Quattro Formaggi, Pepperoni Lovers, Chicken & Mushroom (2 slices each)",
+    "img": "02eae8610d82.webp",
+    "hit": false,
+    "price": null,
+    "weight": null,
+    "sizes": [
+     {
+      "label": "33",
+      "price": 3700,
+      "weight": "800 г"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "ru": "Пицца хот-дог",
+  "hy": "Պիցցա հոթ-դոգ",
+  "en": "Hot dog crust pizza",
+  "items": [
+   {
+    "ru": "Любители пепперони",
+    "hy": "Պեպերոնիի սիրահարներ",
+    "en": "Pepperoni Lovers",
+    "dru": "27 см, бортик с сосисками",
+    "dhy": "27 սմ, նրբերշիկով եզրով",
+    "den": "27 cm, crust stuffed with sausages",
+    "img": "56f5be6c3b3a.webp",
+    "hit": false,
+    "price": 3800,
+    "weight": "600 г",
+    "sizes": []
+   },
+   {
+    "ru": "Хат Суприм",
+    "hy": "Հաթ Սուպրիմ",
+    "en": "Hut Supreme",
+    "dru": "27 см, бортик с сосисками",
+    "dhy": "27 սմ, նրբերշիկով եզրով",
+    "den": "27 cm, crust stuffed with sausages",
+    "img": "c9bb972e6ae4.webp",
+    "hit": false,
+    "price": 3900,
+    "weight": "600 г",
+    "sizes": []
+   },
+   {
+    "ru": "Любители мяса",
+    "hy": "Մսի սիրահարներ",
+    "en": "Meat Lovers",
+    "dru": "27 см, бортик с сосисками",
+    "dhy": "27 սմ, նրբերշիկով եզրով",
+    "den": "27 cm, crust stuffed with sausages",
+    "img": "222f75ca7b0b.webp",
+    "hit": false,
+    "price": 3900,
+    "weight": "600 г",
+    "sizes": []
+   },
+   {
+    "ru": "Пряный мясной",
+    "hy": "Կծու մսային",
+    "en": "Spicy Meat",
+    "dru": "27 см, бортик с сосисками",
+    "dhy": "27 սմ, նրբերշիկով եզրով",
+    "den": "27 cm, crust stuffed with sausages",
+    "img": "ab29643a84db.webp",
+    "hit": false,
+    "price": 3700,
+    "weight": "600 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Бургеры",
+  "hy": "Բուրգերներ",
+  "en": "Burgers",
+  "items": [
+   {
+    "ru": "Чикенбургер",
+    "hy": "Չիքենբուրգեր",
+    "en": "Chicken burger",
+    "dru": "Свежая булочка с сочной начинкой",
+    "dhy": "Թարմ հացաբուլկի՝ համեղ միջուկով",
+    "den": "Fresh bun with a juicy filling",
+    "img": "cb3ba47dead0.webp",
+    "hit": false,
+    "price": 1700,
+    "weight": "285 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Сэндвичи и роллы",
+  "hy": "Սենդվիչներ և ռոլլեր",
+  "en": "Sandwiches & wraps",
+  "items": [
+   {
+    "ru": "Хатстер",
+    "hy": "Հաթսթեր",
+    "en": "Hutster",
+    "dru": "Быстрое и вкусное блюдо",
+    "dhy": "Արագ և համեղ ուտեստ",
+    "den": "Quick and tasty",
+    "img": "a5079848810c.webp",
+    "hit": false,
+    "price": 1300,
+    "weight": "200 г",
+    "sizes": []
+   },
+   {
+    "ru": "Тортилья с курицей",
+    "hy": "Հավով տորտիլյա",
+    "en": "Chicken tortilla",
+    "dru": "Быстрое и вкусное блюдо",
+    "dhy": "Արագ և համեղ ուտեստ",
+    "den": "Quick and tasty",
+    "img": "d18e6859a915.webp",
+    "hit": false,
+    "price": 1300,
+    "weight": "160 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Напитки",
+  "hy": "Ըմպելիքներ",
+  "en": "Drinks",
+  "items": [
+   {
+    "ru": "Кока-Кола",
+    "hy": "Կոկա-Կոլա",
+    "en": "Coca-Cola",
+    "dru": "Освежающий газированный напиток",
+    "dhy": "Զովացուցիչ գազավորված ըմպելիք",
+    "den": "Refreshing soft drink",
+    "img": "ddf4fd6c9cc2.webp",
+    "hit": false,
+    "price": 550,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Кока-Кола Зеро",
+    "hy": "Կոկա-Կոլա Զերո",
+    "en": "Coca-Cola Zero",
+    "dru": "Освежающий газированный напиток без сахара",
+    "dhy": "Զովացուցիչ գազավորված ըմպելիք առանց շաքարի",
+    "den": "Refreshing sugar-free soft drink",
+    "img": "dde2ed0c50ec.webp",
+    "hit": false,
+    "price": 550,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Фанта",
+    "hy": "Ֆանտա",
+    "en": "Fanta",
+    "dru": "Освежающий газированный напиток",
+    "dhy": "Զովացուցիչ գազավորված ըմպելիք",
+    "den": "Refreshing soft drink",
+    "img": "1f79e387f9ac.webp",
+    "hit": false,
+    "price": 550,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Фанта Экзотик",
+    "hy": "Ֆանտա Էկզոտիկ",
+    "en": "Fanta Exotic",
+    "dru": "Освежающий газированный напиток",
+    "dhy": "Զովացուցիչ գազավորված ըմպելիք",
+    "den": "Refreshing soft drink",
+    "img": "0e51a63471fe.webp",
+    "hit": false,
+    "price": 550,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Спрайт",
+    "hy": "Սփրայթ",
+    "en": "Sprite",
+    "dru": "Освежающий газированный напиток",
+    "dhy": "Զովացուցիչ գազավորված ըմպելիք",
+    "den": "Refreshing soft drink",
+    "img": "8eb37c2a0541.webp",
+    "hit": false,
+    "price": 550,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Фьюз чай",
+    "hy": "Ֆյուզ թեյ",
+    "en": "Fuze Tea",
+    "dru": "Холодный чай — освежает и утоляет жажду в любое время дня",
+    "dhy": "Զովացուցիչ ըմպելիք՝ պատրաստված սառեցված թեյից",
+    "den": "Iced tea that refreshes any time of day",
+    "img": "f9dc2241b61f.webp",
+    "hit": false,
+    "price": 600,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Палпи",
+    "hy": "Փալփի",
+    "en": "Pulpy",
+    "dru": "Негазированный напиток с приятным вкусом и ароматом",
+    "dhy": "Ոչ գազավորված ըմպելիք, որն ունի հաճելի համ և բույր",
+    "den": "Still juice drink with a pleasant taste",
+    "img": "c42889a2a8c4.webp",
+    "hit": false,
+    "price": 600,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Добрый яблоко",
+    "hy": "Դոբրի խնձոր",
+    "en": "Dobry apple juice",
+    "dru": "Негазированный напиток с приятным вкусом и ароматом",
+    "dhy": "Ոչ գազավորված ըմպելիք, որն ունի հաճելի համ և բույր",
+    "den": "Still juice drink with a pleasant taste",
+    "img": "be2a62f1e9a1.webp",
+    "hit": false,
+    "price": 500,
+    "weight": "330 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Добрый",
+    "hy": "Դոբրի",
+    "en": "Dobry juice",
+    "dru": "Негазированный напиток с приятным вкусом и ароматом",
+    "dhy": "Ոչ գազավորված ըմպելիք, որն ունի հաճելի համ և բույր",
+    "den": "Still juice drink with a pleasant taste",
+    "img": "ddf207976eb9.webp",
+    "hit": false,
+    "price": 350,
+    "weight": "200 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Еремян тан",
+    "hy": "Յերեմյան թան",
+    "en": "Yeremyan tan",
+    "dru": "Лёгкий освежающий напиток",
+    "dhy": "Թեթև զովացուցիչ ըմպելիք",
+    "den": "Light refreshing yogurt drink",
+    "img": "847d3d5a057b.webp",
+    "hit": false,
+    "price": 450,
+    "weight": "330 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Минеральная вода Бжни",
+    "hy": "Հանքային ջուր Բջնի",
+    "en": "Bjni mineral water",
+    "dru": "Газированная",
+    "dhy": "Գազավորված",
+    "den": "Sparkling",
+    "img": "4cdc85599193.webp",
+    "hit": false,
+    "price": 300,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Вода БонАква",
+    "hy": "Ջուր ԲոնԱկվա",
+    "en": "BonAqua water",
+    "dru": "Негазированная",
+    "dhy": "Չգազավորված",
+    "den": "Still",
+    "img": "86cef3033d51.webp",
+    "hit": false,
+    "price": 250,
+    "weight": "500 мл",
+    "sizes": []
+   },
+   {
+    "ru": "Вода Ной",
+    "hy": "Ջուր Նոյ",
+    "en": "Noy water",
+    "dru": "Негазированная",
+    "dhy": "Չգազավորված",
+    "den": "Still",
+    "img": "d1ecdee66628.webp",
+    "hit": false,
+    "price": 250,
+    "weight": "500 мл",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Соусы",
+  "hy": "Սոուսներ",
+  "en": "Sauces",
+  "items": [
+   {
+    "ru": "Кетчуп",
+    "hy": "Կետչուպ",
+    "en": "Ketchup",
+    "dru": "Классический томатный соус",
+    "dhy": "Դասական լոլիկի սոուս",
+    "den": "Classic tomato sauce",
+    "img": "6ca9ca6020e0.webp",
+    "hit": false,
+    "price": 150,
+    "weight": "30 г",
+    "sizes": []
+   },
+   {
+    "ru": "Барбекю",
+    "hy": "Բարբեքյու",
+    "en": "BBQ",
+    "dru": "Дымный, сладковато-пряный соус",
+    "dhy": "Ծխահամ, քաղցր-կծու սոուս",
+    "den": "Smoky, sweet and tangy sauce",
+    "img": "bce392889150.webp",
+    "hit": false,
+    "price": 150,
+    "weight": "25 г",
+    "sizes": []
+   },
+   {
+    "ru": "Чесночный",
+    "hy": "Սխտորային",
+    "en": "Garlic",
+    "dru": "Ароматный соус с ярким вкусом чеснока",
+    "dhy": "Բուրավետ սոուս՝ սխտորի վառ համով",
+    "den": "Aromatic sauce with a bold garlic taste",
+    "img": "c6b87e3afa22.webp",
+    "hit": false,
+    "price": 150,
+    "weight": "25 г",
+    "sizes": []
+   },
+   {
+    "ru": "Сырный",
+    "hy": "Պանրային",
+    "en": "Cheese",
+    "dru": "Нежный сливочно-сырный соус",
+    "dhy": "Նուրբ պանրային սոուս",
+    "den": "Smooth creamy cheese sauce",
+    "img": "f62d8c215f22.webp",
+    "hit": false,
+    "price": 150,
+    "weight": "25 г",
+    "sizes": []
+   },
+   {
+    "ru": "Овощной",
+    "hy": "Բանջարեղենային",
+    "en": "Vegetable",
+    "dru": "Дополняет вкус любого блюда",
+    "dhy": "Միահյուսում է ուտեստի բաղադրիչները",
+    "den": "Goes with any dish",
+    "img": "4fe27c4e7aa6.webp",
+    "hit": false,
+    "price": 200,
+    "weight": "30 г",
+    "sizes": []
+   },
+   {
+    "ru": "1000 островов",
+    "hy": "1000 կղզի",
+    "en": "Thousand Island",
+    "dru": "Дополняет вкус любого блюда",
+    "dhy": "Միահյուսում է ուտեստի բաղադրիչները",
+    "den": "Goes with any dish",
+    "img": "6a5ffa71ce4e.webp",
+    "hit": false,
+    "price": 200,
+    "weight": "30 г",
+    "sizes": []
+   }
+  ]
+ },
+ {
+  "ru": "Десерты",
+  "hy": "Աղանդեր",
+  "en": "Desserts",
+  "items": [
+   {
+    "ru": "Маффин с нутеллой",
+    "hy": "Մաֆին նուտելլայով",
+    "en": "Nutella muffin",
+    "dru": "Нежная текстура и неповторимый вкус (1 шт.)",
+    "dhy": "Ունի նուրբ հյուսվածք և յուրահատուկ համ (1 հատ)",
+    "den": "Soft texture, unique taste (1 pc)",
+    "img": "9d70b636d9a5.webp",
+    "hit": false,
+    "price": 950,
+    "weight": "50 г",
+    "sizes": []
+   },
+   {
+    "ru": "Чизкейк",
+    "hy": "Չիզքեյք",
+    "en": "Cheesecake",
+    "dru": "Нежная текстура и неповторимый вкус",
+    "dhy": "Ունի նուրբ հյուսվածք և յուրահատուկ համ",
+    "den": "Soft texture, unique taste",
+    "img": "5ddf151526a0.webp",
+    "hit": false,
+    "price": 1100,
+    "weight": "100 г",
+    "sizes": []
+   }
+  ]
+ }
+]
