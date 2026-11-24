@@ -22,6 +22,10 @@ return Application::configure(basePath: dirname(__DIR__))
         $middleware->redirectUsersTo('/admin');
     })
     ->withExceptions(function (Exceptions $exceptions): void {
+        // Vercel truncates long log records, so also log a one-line summary first.
+        $exceptions->report(function (Throwable $e) {
+            error_log('[app-error] '.get_class($e).': '.$e->getMessage().' @ '.$e->getFile().':'.$e->getLine());
+        });
         $exceptions->shouldRenderJsonWhen(
             fn (Request $request) => $request->is('api/*') || $request->expectsJson(),
         );
