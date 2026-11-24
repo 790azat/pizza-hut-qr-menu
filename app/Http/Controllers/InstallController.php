@@ -18,10 +18,15 @@ class InstallController extends Controller
         $token = (string) config('app.setup_token');
         abort_if($token === '' || ! hash_equals($token, (string) $request->query('token')), 404);
 
-        Artisan::call('migrate', ['--force' => true]);
-        $out = Artisan::output();
-        Artisan::call('db:seed', ['--force' => true]);
-        $out .= Artisan::output();
+        try {
+            Artisan::call('migrate', ['--force' => true]);
+            $out = Artisan::output();
+            Artisan::call('db:seed', ['--force' => true]);
+            $out .= Artisan::output();
+        } catch (\Throwable $e) {
+            // Token-protected, so it is safe to show the owner what went wrong.
+            return response('FAILED: '.get_class($e).': '.$e->getMessage().' @ '.$e->getFile().':'.$e->getLine(), 500, ['Content-Type' => 'text/plain; charset=utf-8', 'Cache-Control' => 'no-store']);
+        }
 
         return response("OK\n\n".$out, 200, ['Content-Type' => 'text/plain; charset=utf-8', 'Cache-Control' => 'no-store']);
     }
